@@ -4,7 +4,7 @@ JavaScript application that is used to write notes 📝
 # Tools used
 1)HTML and CSS
 
-2)Vanilla Javascript
+2)Vanilla JavaScript
 
 3)Local Storage
 
