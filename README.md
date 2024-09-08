@@ -1,4 +1,4 @@
-## Notes-app
+## NodeNote
 JavaScript application that is used to write notes 📝
 
 
